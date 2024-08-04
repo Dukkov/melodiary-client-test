@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/melodiary-client-test/static/js/main.beb13363.js",
+    "static/js/453.8ab44547.chunk.js": "/melodiary-client-test/static/js/453.8ab44547.chunk.js",
+    "static/media/background.png": "/melodiary-client-test/static/media/background.6e977f9ba18a7805dde9.png",
+    "static/media/cat.jpg": "/melodiary-client-test/static/media/cat.322f8c1ecc28796edd74.jpg",
+    "index.html": "/melodiary-client-test/index.html",
+    "main.beb13363.js.map": "/melodiary-client-test/static/js/main.beb13363.js.map",
+    "453.8ab44547.chunk.js.map": "/melodiary-client-test/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.beb13363.js"
+  ]
+}
